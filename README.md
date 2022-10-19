@@ -5,13 +5,13 @@ The project is created in Windows c# forms. The purpose of this tool is to extra
 
 This repo contains 2 archives. One is source code, other is executable you may test the working of software.
 
-<b> How to use: </b>
+<b> How to use: </b><br>
 Copy URL of video for which you want to extract thumbnail. The url must contain "watch?v=" as whole code is based on it. The extracted thumbnail will be presented in default web browser.
 
-<b> Known Issues: </b>
+<b> Known Issues: </b><br>
 The thumbnail of private and unlisted videos cannot be extracted.
 
 
-<b> Preview Of Software:</b>
-
+<b> Preview Of Software:</b><br>
+<img src='preview.png'>
 
