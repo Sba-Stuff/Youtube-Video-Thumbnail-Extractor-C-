@@ -15,3 +15,7 @@ The thumbnail of private and unlisted videos cannot be extracted.
 <b> Preview Of Software:</b><br>
 <img src='preview.png'>
 
+<b> Use Case: </b><br>
+Click On Image To Check Use Case.<br>
+<a href='https://www.youtube.com/watch?v=oMuM4fiJ-e0' target='_blank'><img src='https://img.youtube.com/vi/oMuM4fiJ-e0/maxresdefault.jpg'></a>
+
